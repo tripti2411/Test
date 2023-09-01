@@ -1,0 +1,4 @@
+Name : Tripti
+Skills: HTML,CSS,JS,Next.js
+Email: tripripushpaa7674@gmail.com
+
